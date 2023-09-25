@@ -1,6 +1,6 @@
 # Run a GOLDX Validator
 ## Setting up a node
-1. Git clone https://github.com/fkt20/GOLDXNetwork.git
+1. Git clone https://github.com/goldxchain/GOLDXNetwork.git
 
 2. Copy source form node-example to root folder
 ```
